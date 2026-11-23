@@ -1,0 +1,11 @@
+Hospital_ID,Hospital_Name,City,State,Region,Hospital_Type,Bed_Capacity
+H001,AarogyaCare Hospital - Delhi,New Delhi,Delhi,North,Private,350
+H002,AarogyaCare Hospital - Noida,Noida,Uttar Pradesh,North,Private,300
+H003,AarogyaCare Hospital - Lucknow,Lucknow,Uttar Pradesh,North,Private,400
+H004,AarogyaCare Hospital - Jaipur,Jaipur,Rajasthan,West,Private,350
+H005,AarogyaCare Hospital - Mumbai,Mumbai,Maharashtra,West,Private,500
+H006,AarogyaCare Hospital - Pune,Pune,Maharashtra,West,Private,300
+H007,AarogyaCare Hospital - Bengaluru,Bengaluru,Karnataka,South,Private,450
+H008,AarogyaCare Hospital - Kolkata,Kolkata,West Bengal,East,Private,400
+H009,AarogyaCare Hospital - Hyderabad,Hyderabad,Telangana,South,Private,420
+H010,AarogyaCare Hospital - Patna,Patna,Bihar,East,Private,250

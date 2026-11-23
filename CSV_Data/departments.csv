@@ -1,0 +1,9 @@
+Department_ID,Department_Name,Department_Type
+D001,Cardiology,Specialty
+D002,Neurology,Specialty
+D003,Oncology,Specialty
+D004,Orthopedics,Specialty
+D005,Pediatrics,Specialty
+D006,General Medicine,General
+D007,Dermatology,Specialty
+D008,Gastroenterology,Specialty
